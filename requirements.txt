@@ -1,0 +1,11 @@
+flask
+flask-cors
+streamlit
+fastapi
+uvicorn
+pydantic
+pandas
+scikit-learn
+PyPDF2
+requests
+gunicorn
